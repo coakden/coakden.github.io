@@ -11,7 +11,7 @@ publication: '*Supplemental Proceedings of NELS 50*'
 publication_short: ""
 publication_types:
   - "1"
-publishDate: "2020-07-20T00:00:00Z"
+publishDate: "2020-06-20T00:00:00Z"
 summary:
 tags:
 title: A computational analysis of tone sandhi ordering paradoxes
