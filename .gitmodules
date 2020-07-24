@@ -1,0 +1,8 @@
+[submodule "coakden.github.io"]
+	path = coakden.github.io
+	url = https://github.com/coakden/coakden.github.io
+	branch = master
+[submodule "public"]
+	path = public
+	url = https://github.com/coakden/coakden.github.io.git
+	branch = master
